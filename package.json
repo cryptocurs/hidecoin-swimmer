@@ -1,0 +1,10 @@
+{
+  "name": "hidecoin-swimmer",
+  "version": "0.0.1",
+  "dependencies": {
+    "bs58": "^3.0.0"
+  },
+  "scripts": {
+    "start": "node swimmer"
+  }
+}
